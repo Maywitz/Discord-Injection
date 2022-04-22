@@ -1,2 +1,1 @@
-# Discord-Injection
-Simple js for injecting code into discord.
+Nothing much to see, quit stalking me, this script is for educational purposes only :)
